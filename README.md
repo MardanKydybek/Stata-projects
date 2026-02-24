@@ -16,8 +16,8 @@ Keywords: Gravity Model Trade Creation Stata BACI Database
 
 📈 Goals
 I am currently working on automating methods for fundamental analysis, focusing on:
-Quality Screening (inspired by Warren Buffett).
-Macro-balancing (inspired by Ray Dalio).
+Quality Screening.
+Macro-balancing.
 Scenario Stress Testing.
 Targeting roles in Banking, Asset Management, and Hedge Funds (e.g., UNESCAP, Investment Funds).
 
