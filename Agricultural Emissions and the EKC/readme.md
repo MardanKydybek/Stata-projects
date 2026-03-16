@@ -31,3 +31,7 @@ The project includes advanced data visualizations that map the raw, cross-sectio
 1. Clone the repository:
    ```bash
    git clone [https://github.com/yourusername/EKC-Macro-Analysis.git](https://github.com/yourusername/EKC-Macro-Analysis.git)
+2. INstall required dependencies:
+pip install pandas numpy statsmodels matplotlib seaborn openpyxl
+3. Run the primary analysis script:
+python ekc_regression_analysis.py
