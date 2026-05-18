@@ -14,6 +14,12 @@ Methodology: Structural Gravity Model using a time-varying treatment dummy.
 Key Result: Identified a 33.2% increase in exports post-accession (p<0.01).
 Keywords: Gravity Model Trade Creation Stata BACI Database
 
+2. Population aging effect on CO2 emissions
+
+3. Comparative analysis on EKC: BRICS & OECD countries
+
+4. Recycing economy effect on real economic growth
+
 📈 Goals
 I am currently working on automating methods for fundamental analysis, focusing on:
 Quality Screening.
