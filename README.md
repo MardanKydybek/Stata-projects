@@ -16,9 +16,9 @@ Keywords: Gravity Model Trade Creation Stata BACI Database
 
 2. Population aging effect on CO2 emissions
 
-3. Comparative analysis on EKC: BRICS & OECD countries
+3. Agricultural Emission and the EKC: Comparative analysis between BRICS & OECD countries
 
-4. Recycing economy effect on real economic growth
+4. Assessing the Economic Impact of the Circular Economy in the EU (2010–2024) 📊 Project Overview This project provides an empirical analysis of how circular economy transitions influence economic growth across European Union member states. Using a Fixed-Effects (FE) Panel Regression model, we examine the relationship between resource productivity (Circular Material Use), private investments, and GDP per capita. Key Findings Circularity is a Growth Driver: A 1 percentage point increase in the Circular Material Use (CMU) rate correlates with a 0.85% increase in GDP per capita (p<0.01).
 
 📈 Goals
 I am currently working on automating methods for fundamental analysis, focusing on:
